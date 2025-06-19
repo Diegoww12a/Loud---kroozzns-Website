@@ -17,6 +17,8 @@ header{
     margin-top: 20px;
     /* border: 1px solid red; */
     justify-content: center;
+    border-bottom: 1px solid rgb(3, 65, 13);
+    padding-bottom: 14px;
     width: 100%;
 
 }
